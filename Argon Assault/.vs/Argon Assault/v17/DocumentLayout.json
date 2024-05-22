@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Argon Assault\\Argon Assault\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD0574-C95F-B3D7-03F2-083ED91296A6}|Assembly-CSharp.csproj|d:\\projects\\argon assault\\argon assault\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BD0574-C95F-B3D7-03F2-083ED91296A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD0574-C95F-B3D7-03F2-083ED91296A6}|Assembly-CSharp.csproj|D:\\Projects\\Argon Assault\\Argon Assault\\assets\\scripts\\selfdestruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BD0574-C95F-B3D7-03F2-083ED91296A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selfdestruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD0574-C95F-B3D7-03F2-083ED91296A6}|Assembly-CSharp.csproj|D:\\Projects\\Argon Assault\\Argon Assault\\assets\\scripts\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BD0574-C95F-B3D7-03F2-083ED91296A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD0574-C95F-B3D7-03F2-083ED91296A6}|Assembly-CSharp.csproj|D:\\Projects\\Argon Assault\\Argon Assault\\assets\\scripts\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BD0574-C95F-B3D7-03F2-083ED91296A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD0574-C95F-B3D7-03F2-083ED91296A6}|Assembly-CSharp.csproj|D:\\Projects\\Argon Assault\\Argon Assault\\assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BD0574-C95F-B3D7-03F2-083ED91296A6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Projects\\Argon Assault\\Argon Assault\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\Projects\\Argon Assault\\Argon Assault\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:26:43.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelfDestruct.cs",
+              "DocumentMoniker": "D:\\Projects\\Argon Assault\\Argon Assault\\Assets\\Scripts\\SelfDestruct.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelfDestruct.cs",
+              "ToolTip": "D:\\Projects\\Argon Assault\\Argon Assault\\Assets\\Scripts\\SelfDestruct.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelfDestruct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:09:35.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerControls.cs",
+              "DocumentMoniker": "D:\\Projects\\Argon Assault\\Argon Assault\\Assets\\Scripts\\PlayerControls.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControls.cs",
+              "ToolTip": "D:\\Projects\\Argon Assault\\Argon Assault\\Assets\\Scripts\\PlayerControls.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControls.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwHIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:04:18.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollisionHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\Argon Assault\\Argon Assault\\Assets\\Scripts\\CollisionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollisionHandler.cs",
+              "ToolTip": "D:\\Projects\\Argon Assault\\Argon Assault\\Assets\\Scripts\\CollisionHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollisionHandler.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:29:50.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "D:\\Projects\\Argon Assault\\Argon Assault\\Assets\\Scripts\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicPlayer.cs",
+              "ToolTip": "D:\\Projects\\Argon Assault\\Argon Assault\\Assets\\Scripts\\MusicPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:16:35.828Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
